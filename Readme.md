@@ -224,11 +224,11 @@ CORS is configured to allow the deployed Netlify client.
 
 ## 👨‍💻 Author
 
-**MD Tajrian Rashid**
+**Takian Rashid**
 Frontend & Full‑Stack Developer
 
-🔗 GitHub: [https://github.com/mdtajrianrashid](https://github.com/mdtajrianrashid)
-🔗 LinkedIn: [https://www.linkedin.com/in/mdtajrianrashid/](https://www.linkedin.com/in/mdtajrianrashid/)
+🔗 GitHub: [https://github.com/mdtakianrashid](https://github.com/mdtakianrashid)
+🔗 LinkedIn: [https://www.linkedin.com/in/mdtakianrashid/](https://www.linkedin.com/in/mdtakianrashid/)
 
 ---
 
