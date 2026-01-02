@@ -227,8 +227,8 @@ CORS is configured to allow the deployed Netlify client.
 **Takian Rashid**
 Frontend & Full‑Stack Developer
 
-🔗 GitHub: [https://github.com/mdtakianrashid](https://github.com/mdtakianrashid)
-🔗 LinkedIn: [https://www.linkedin.com/in/mdtakianrashid/](https://www.linkedin.com/in/mdtakianrashid/)
+* GitHub: [https://github.com/mdtakianrashid](https://github.com/mdtakianrashid)
+* LinkedIn: [https://www.linkedin.com/in/mdtakianrashid/](https://www.linkedin.com/in/mdtakianrashid/)
 
 ---
 
